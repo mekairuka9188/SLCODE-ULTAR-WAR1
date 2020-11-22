@@ -1,0 +1,2 @@
+# SLCODE1
+SLCODE ULTAR WAR1は、アルファテスト中のFPSゲームです
